@@ -1,11 +1,11 @@
 import React from 'react';
 import "./App.css";
-import ep1 from "./Component/Images/1.jpg";
-import ep2 from "./Component/Images/2.jpg";
-import ep3 from "./Component/Images/3.jpg";
-import ep4 from "./Component/Images/4.jpg";
-import ep5 from "./Component/Images/5.jpg";
-import ep6 from "./Component/Images/6.jpg";
+import ep1 from "./Images/1.jpg";
+import ep2 from "./Images/2.jpg";
+import ep3 from "./Images/3.jpg";
+import ep4 from "./Images/4.jpg";
+import ep5 from "./Images/5.jpg";
+import ep6 from "./Images/6.jpg";
 
 const Cover=({ bool,cover })=>{
     let v=0;
