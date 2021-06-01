@@ -17,9 +17,9 @@ h1{
   }
 
 .coveron{
-  width: 120px;
+  width: 100px;
   height: 150px;
-  margin: 1%;
+  margin: 2%;
   object-fit: cover;
   -ms-flex-item-align: center;
       align-self: center;
